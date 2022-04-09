@@ -4,7 +4,7 @@
 
 Just a quick challenge made for Frontend Mentor.
 
-> Check it out: [https://flashcodx.github.io/rating-app/](https://flashcodx.github.io/rating-app/)
+> Check it out: [https://rating-app-eight.vercel.app/](https://rating-app-eight.vercel.app/)
 
 ## Tech
 
