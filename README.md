@@ -10,7 +10,7 @@ Just a quick challenge made for Frontend Mentor.
 
 - [React] - HTML enhanced for web apps!
 - [Next] - React Framework for production level apps.
-- [Tailwindcss] - A CSS Framework
+- [Tailwind CSS] - A CSS Framework for efficiency.
 
 ## License
 
